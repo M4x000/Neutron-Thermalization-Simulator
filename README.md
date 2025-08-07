@@ -8,10 +8,14 @@ A Monte Carlo simulator for modeling the thermalization of cosmic-ray neutrons i
 - Outputs include thermalization depths, backscatter energies, and full diagnostics
 - Interactive CLI interface with configuration saving/loading
 
-installation
-git clone https://github.com/M4x000/Neutron-Thermalization-Simulator.git
+## Installation
+```git clone https://github.com/M4x000/Neutron-Thermalization-Simulator.git
 cd Neutron-Thermalization-Simulator
 pip install -r requirements.txt
+```
 
-Execution
+
+## Execution
+```
 python v2.py
+```
