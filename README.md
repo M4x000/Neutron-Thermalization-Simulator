@@ -9,7 +9,8 @@ A Monte Carlo simulator for modeling the thermalization of cosmic-ray neutrons i
 - Interactive CLI interface with configuration saving/loading
 
 ## Installation
-```git clone https://github.com/M4x000/Neutron-Thermalization-Simulator.git
+```
+git clone https://github.com/M4x000/Neutron-Thermalization-Simulator.git
 cd Neutron-Thermalization-Simulator
 pip install -r requirements.txt
 ```
