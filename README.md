@@ -4,7 +4,7 @@ A Monte Carlo simulator for modeling the thermalization of cosmic-ray neutrons i
 
 - Based on customizable soil composition
 - Includes elastic scattering and neutron absorption
-- Supports realistic energy spectra (e.g., PARMA)
+- Supports realistic energy spectra (PARMA)
 - Outputs include thermalization depths, backscatter energies, and full diagnostics
 - Interactive CLI interface with configuration saving/loading
 
