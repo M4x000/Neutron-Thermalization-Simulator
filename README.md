@@ -22,5 +22,5 @@ pip install -r requirements.txt
 
 ## Execution
 ```
-python v2.py
+python neutron_simulator.py
 ```
